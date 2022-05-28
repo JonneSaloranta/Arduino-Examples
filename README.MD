@@ -1,16 +1,14 @@
 # Esimerkkejä
 
-- ### [Asetukset](#asetukset)
-- ### [I2C-osoite](#i2c-osoite)
-- ### [Ledit](#ledit)
-- ### [Napit](#napit)
-- ### [Potentiometri](#potentiometri)
+- ### [Asetukset](#Asetukset)
+- ### [I2C-osoite](#I2C-osoite)
+- ### [Ledit](#Ledit)
+- ### [Napit](#Napit)
+- ### [Potentiometri](#Potentiometri)
 
 ---
 
-<a name="Asetukset"></a>
-
-## Asetukset
+# Asetukset
 
 Valitse oikea Board, Processor ja Port.
 
@@ -34,7 +32,7 @@ Valitse oikea Baud Rate.
 
 ---
 
-## I2C-osoite
+# I2C-osoite
 
 <a name="i2c-osoite"></a>
 
@@ -102,7 +100,7 @@ void loop()
 
 ---
 
-## Ledit
+# Ledit
 
 <a name="ledit"></a>
 
@@ -144,7 +142,7 @@ void loop()
 
 ---
 
-## Napit
+# Napit
 
 <a name="napit"></a>
 
@@ -253,7 +251,7 @@ void loop()
 
 ---
 
-## Potentiometri
+# Potentiometri
 
 <a name="potentiometri"></a>
 
