@@ -1,10 +1,10 @@
 # Esimerkkejä
 
-- ### [Asetukset](#Asetukset)
-- ### [I2C-osoite](#I2C-osoite)
-- ### [Ledit](#Ledit)
-- ### [Napit](#Napit)
-- ### [Potentiometri](#Potentiometri)
+- [Asetukset](#asetukset)
+- [I2C-osoite](#i2c-osoite)
+- [Ledit](#ledit)
+- [Napit](#napit)
+- [Potentiometri](#potentiometri)
 
 ---
 
