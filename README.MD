@@ -277,6 +277,7 @@ void loop()
  </summary>
  
  ![kuva](https://user-images.githubusercontent.com/72470168/234598230-dd369c96-6df8-4e89-b44e-6038ba93a4eb.png)
+
 lataa SetTime arduinolle, sen jälkeen ReadTest niin näkee toimiiko moduuli.
 
 examples löytyy lisää, kun etsii *RTC* sanaa
