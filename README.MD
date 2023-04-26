@@ -5,6 +5,7 @@
 - [Ledit](#ledit)
 - [Napit](#napit)
 - [Potentiometri](#potentiometri)
+- [RTC / Aikamoduuli](#rtc)
 
 ---
 
@@ -263,5 +264,21 @@ void loop()
 ```cpp
 // potentiometri
 ```
+
+ </details>
+ 
+ # RTC / Aikamoduuli
+
+<a name="rtc"></a>
+
+<details>
+ <summary>
+ RTC Käyttö
+ </summary>
+ 
+ ![kuva](https://user-images.githubusercontent.com/72470168/234598230-dd369c96-6df8-4e89-b44e-6038ba93a4eb.png)
+lataa SetTime arduinolle, sen jälkeen ReadTest niin näkee toimiiko moduuli.
+
+examples löytyy lisää, kun etsii *RTC* sanaa
 
  </details>
